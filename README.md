@@ -24,10 +24,10 @@ O3a_scatt_light_strain_whitened.zip contains hdf5 files of scattered-light glitc
 Gravity_Spy_Glitches_whitened_#.zip contain various glitches from LIGO. They were identified starting from a slightly modified Gravity Spy dataset which can be found [here](https://zenodo.org/record/1476551#.ZFIvTbvRZop). The dataset was used to obtain the classification of the glitches and their time coordinate. Once this was done, it was possible to retrieve the time-signal from the [GWOSC website](https://gwosc.org/) using the [gwpy package](https://gwpy.github.io/docs/stable/overview/).   
 
 # Creation of the Dataset
-* **Gravity_Spy_Analysis.ipynb** <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-<target="blank" href="https://colab.research.google.com/drive/1L-2LxuG8wUeiNn7qjP1vC7obRZWeJY3C#scrollTo=DK1cSZ51Zuke"> the notebook used to perform the whiteneing of the time-signals and to create the Gravity_Spy_Glitches_whitened_# files.
-* **Read_Whitened_GW.ipynb** <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-<target="blank" href="https://colab.research.google.com/drive/1HEvTa0_oq_23qRvcREC9qjBxbqnVxJG1#scrollTo=57UfK5QF0Xm4"> a notebook showing how to read the Gravity_Spy_Glitches_whitened_# files.
+* **Gravity_Spy_Analysis.ipynb** <a target="blank" href="https://colab.research.google.com/drive/1L-2LxuG8wUeiNn7qjP1vC7obRZWeJY3C#scrollTo=DK1cSZ51Zuke"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+ the notebook used to perform the whiteneing of the time-signals and to create the Gravity_Spy_Glitches_whitened_# files.
+* **Read_Whitened_GW.ipynb** <a target="blank" href="https://colab.research.google.com/drive/1HEvTa0_oq_23qRvcREC9qjBxbqnVxJG1#scrollTo=57UfK5QF0Xm4">  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+a notebook showing how to read the Gravity_Spy_Glitches_whitened_# files.
 
 
 ## Glitch Generation:
