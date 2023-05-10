@@ -29,6 +29,12 @@ Gravity_Spy_Glitches_whitened_#.zip contain various glitches from LIGO. They wer
 * **Read_Whitened_GW.ipynb** <a target="blank" href="https://colab.research.google.com/drive/1HEvTa0_oq_23qRvcREC9qjBxbqnVxJG1#scrollTo=57UfK5QF0Xm4">  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 a notebook showing how to read the Gravity_Spy_Glitches_whitened_# files.
 
+# Gravity Spy Machine Learning
+* [DEEP MULTI-VIEW MODELS FOR GLITCH CLASSIFICATION](https://arxiv.org/pdf/1705.00034.pdf), Bahaadini et al., 2017
+* [Machine learning for Gravity Spy: Glitch classification and dataset](https://www.sciencedirect.com/science/article/pii/S0020025518301634), Bahaadini et al., 2018
+* [Classifying the unknown: Discovering novel gravitational-wavedetector glitches using similarity learning](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.99.082002), Coughlin et al., 2019.
+*  [Discriminative Dimensionality Reduction usingDeep Neural Networks for Clustering of LIGO data](https://arxiv.org/pdf/2205.13672.pdf), Bahaadin et al., 2022
+*  [Data quality up to the third observing run ofAdvanced LIGO: Gravity Spy glitch classifications](https://arxiv.org/pdf/2208.12849.pdf), Glanzer et al., 2023
 
 ## Glitch Generation:
 
