@@ -35,6 +35,7 @@ a notebook showing how to read the Gravity_Spy_Glitches_whitened_# files.
 * [Classifying the unknown: Discovering novel gravitational-wavedetector glitches using similarity learning](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.99.082002), Coughlin et al., 2019.
 *  [Discriminative Dimensionality Reduction usingDeep Neural Networks for Clustering of LIGO data](https://arxiv.org/pdf/2205.13672.pdf), Bahaadin et al., 2022
 *  [Data quality up to the third observing run ofAdvanced LIGO: Gravity Spy glitch classifications](https://arxiv.org/pdf/2208.12849.pdf), Glanzer et al., 2023
+*  Classification of raw data with pytorch: <a target="_blank" href="https://colab.research.google.com/github/FrancescoSarandrea/Audio_GW/blob/75285c21264473870679c183650ab82fbd9311c8/GS_torchNNr.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 *  [Kaggle dataset](https://www.kaggle.com/datasets/tentotheminus9/gravity-spy-gravitational-waves) (see "code" for implementations)
 
 ## Glitch Generation:
