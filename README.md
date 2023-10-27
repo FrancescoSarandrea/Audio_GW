@@ -41,7 +41,7 @@ a notebook showing how to read the Gravity_Spy_Glitches_whitened_# files.
 ## Glitch Generation:
 
 * [Gengli](https://git.ligo.org/melissa.lopez/gengli): GAN for glitch generation, [paper1](https://arxiv.org/pdf/2203.06494.pdf) [paper2](https://arxiv.org/pdf/2205.09204.pdf). To do: build dataset
-* [Wavenet](https://arxiv.org/pdf/1609.03499.pdf): a pytorch implementation: [Code](https://github.com/vincentherrmann/pytorch-wavenet). To do: build proper dataset. *Wavenet_Pytorch_WIP.ipynb* is a notebook in which we try to perform the generation <a target="blank" href="https://colab.research.google.com/drive/1OCj2jMgM5l7DYcTxanagO7d9gS5ZnCCR"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
+* [Wavenet](https://arxiv.org/pdf/1609.03499.pdf): a pytorch implementation: [Code](https://github.com/vincentherrmann/pytorch-wavenet). To do: build proper dataset. *Wavenet_Pytorch_WIP.ipynb* is a notebook in which we try to perform the generation <a target="blank" href="
+https://colab.research.google.com/drive/1MAGk2XOvFDsMHIPjqR7WNillP2UX6DK4?usp=sharing"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 * [Denoising Diffusion Probabilistic Model](https://arxiv.org/abs/2006.11239): best state-of-the-art generative models, pytorch implementation: [Code](https://github.com/lucidrains/denoising-diffusion-pytorch). To do: guess? ahah
