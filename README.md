@@ -36,12 +36,22 @@ a notebook showing how to read the Gravity_Spy_Glitches_whitened_# files.
 *  [Discriminative Dimensionality Reduction usingDeep Neural Networks for Clustering of LIGO data](https://arxiv.org/pdf/2205.13672.pdf), Bahaadin et al., 2022
 *  [Data quality up to the third observing run ofAdvanced LIGO: Gravity Spy glitch classifications](https://arxiv.org/pdf/2208.12849.pdf), Glanzer et al., 2023
 *  Classification of raw data with pytorch: <a target="_blank" href="https://colab.research.google.com/github/FrancescoSarandrea/Audio_GW/blob/75285c21264473870679c183650ab82fbd9311c8/GS_torchNNr.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-*  [Kaggle dataset](https://www.kaggle.com/datasets/tentotheminus9/gravity-spy-gravitational-waves): Gravity spy dataset (Q-transform data), Pytorch CNN: [![View filled on Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=View%20On%20Github&color=lightgrey)](https://github.com/FrancescoSarandrea/Audio_GW/blob/068d31261c704e1f150478389a45c13d0a0a9de5/gravityspytorchqtransform.ipynb)
+*  [Kaggle dataset](https://www.kaggle.com/datasets/tentotheminus9/gravity-spy-gravitational-waves): Gravity spy dataset (Q-transform data), Pytorch CNN: [![View filled on Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=View%20On%20Github&color=lightgrey)](https://github.com/FrancescoSarandrea/Audio_GW/blob/068d31261c704e1f150478389a45c13d0a0a9de5/gravityspytorchqtransform.ipynb), Pytorch Vision Transformer [![View filled on Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=View%20On%20Github&color=lightgrey)](https://github.com/FrancescoSarandrea/Audio_GW/blob/aed80babd01a4d39f41bccf4b9dc29c08d37be65/transformergs.ipynb) 
 
 ## Glitch Generation:
 
 * [Gengli](https://git.ligo.org/melissa.lopez/gengli): GAN for glitch generation, [paper1](https://arxiv.org/pdf/2203.06494.pdf) [paper2](https://arxiv.org/pdf/2205.09204.pdf). To do: build dataset
-* [Wavenet](https://arxiv.org/pdf/1609.03499.pdf): a pytorch implementation: [Code](https://github.com/vincentherrmann/pytorch-wavenet). To do: build proper dataset. *Wavenet_Pytorch_WIP.ipynb* is a notebook in which we try to perform the generation <a target="blank" href="
-https://colab.research.google.com/drive/1MAGk2XOvFDsMHIPjqR7WNillP2UX6DK4?usp=sharing"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* [Wavenet](https://arxiv.org/pdf/1609.03499.pdf): a pytorch implementation: [Code](https://github.com/vincentherrmann/pytorch-wavenet). To do: build proper dataset. *Wavenet_Pytorch_WIP.ipynb* is a notebook in which we try to perform the generation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MAGk2XOvFDsMHIPjqR7WNillP2UX6DK4#scrollTo=mqWIda7CK1Qy)
 
 * [Denoising Diffusion Probabilistic Model](https://arxiv.org/abs/2006.11239): best state-of-the-art generative models, pytorch implementation: [Code](https://github.com/lucidrains/denoising-diffusion-pytorch). To do: guess? ahah
+
+# Time series Forecasting:
+
+some paper:
+* [Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting](https://arxiv.org/pdf/1912.09363.pdf), Lim et al., (2019)
+* [Are Transformers Effective for Time Series Forecasting?](https://arxiv.org/abs/2205.13504), Zeng et al., (2022)
+* [Long-term Forecasting with TiDE: Time-series Dense Encoder](https://arxiv.org/pdf/2304.08424.pdf), Kong et al., (2023)
+
+some repos: 
+* [PyTorch Forecasting](https://github.com/jdb78/pytorch-forecasting) forecasting
+* [Darts](https://github.com/unit8co/darts) forecasting and anomaly detection
