@@ -44,3 +44,14 @@ a notebook showing how to read the Gravity_Spy_Glitches_whitened_# files.
 * [Wavenet](https://arxiv.org/pdf/1609.03499.pdf): a pytorch implementation: [Code](https://github.com/vincentherrmann/pytorch-wavenet). To do: build proper dataset. *Wavenet_Pytorch_WIP.ipynb* is a notebook in which we try to perform the generation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MAGk2XOvFDsMHIPjqR7WNillP2UX6DK4#scrollTo=mqWIda7CK1Qy)
 
 * [Denoising Diffusion Probabilistic Model](https://arxiv.org/abs/2006.11239): best state-of-the-art generative models, pytorch implementation: [Code](https://github.com/lucidrains/denoising-diffusion-pytorch). To do: guess? ahah
+
+# Time series Forecasting:
+
+some paper:
+* [Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting](https://arxiv.org/pdf/1912.09363.pdf), Lim et al., (2019)
+* [Are Transformers Effective for Time Series Forecasting?](https://arxiv.org/abs/2205.13504), Zeng et al., (2022)
+* [Long-term Forecasting with TiDE: Time-series Dense Encoder](https://arxiv.org/pdf/2304.08424.pdf), Kong et al., (2023)
+
+some repos: 
+* [PyTorch Forecasting](https://github.com/jdb78/pytorch-forecasting) forecasting
+* [Darts](https://github.com/unit8co/darts) forecasting and anomaly detection
