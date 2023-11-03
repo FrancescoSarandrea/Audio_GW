@@ -57,4 +57,4 @@ some repos:
 * [Darts](https://github.com/unit8co/darts) forecasting and anomaly detection. Some examples: [![View filled on Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=View%20On%20Github&color=lightgrey)](https://github.com/FrancescoSarandrea/Audio_GW/blob/12ef2271aa2ede2263a065711f8834a22e8e91b8/dartstest-v0.ipynb)
 
 some codes:
-* Vanilla Linear Forecasting in Pytorch: [![View filled on Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=View%20On%20Github&color=lightgrey)](https://github.com/FrancescoSarandrea/Audio_GW/blob/cbce13cf415d1df5a3d04fc424ad935edffa7115/vanillalinear-forecasting.ipynb)
+* D,N and Vanilla Linear Forecasting Scratchy Pytorch: [![View filled on Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=View%20On%20Github&color=lightgrey)](https://github.com/FrancescoSarandrea/Audio_GW/blob/a75f3106b37a3fd9a5296c33b22201aaf3351538/d-n-vanilla-linear.ipynb)
