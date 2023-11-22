@@ -45,6 +45,10 @@ a notebook showing how to read the Gravity_Spy_Glitches_whitened_# files.
 
 * [Denoising Diffusion Probabilistic Model](https://arxiv.org/abs/2006.11239): best state-of-the-art generative models, pytorch implementation: [Code](https://github.com/lucidrains/denoising-diffusion-pytorch). To do: guess? ahah
 
+* Scratchy CycleGAN adapted from [Kaggle notebook](https://www.kaggle.com/code/songseungwon/cyclegan-tutorial-from-scratch-monet-to-photo) [![View filled on Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=View%20On%20Github&color=lightgrey)](https://github.com/FrancescoSarandrea/Audio_GW/blob/d37a48af813bd09f5efb68309e4e1457fa69b6e3/cycleGan.ipynb) <a target="_blank" href="https://colab.research.google.com/github/FrancescoSarandrea/Audio_GW/blob/d37a48af813bd09f5efb68309e4e1457fa69b6e3/cycleGan.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 # Time series Forecasting:
 
 some paper:
